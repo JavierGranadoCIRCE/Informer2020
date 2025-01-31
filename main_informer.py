@@ -1,7 +1,7 @@
 import argparse
 import os
 import torch
-
+# primer commit 31012025
 from exp.exp_informer import Exp_Informer
 
 parser = argparse.ArgumentParser(description='[Informer] Long Sequences Forecasting')
